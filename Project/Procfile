@@ -1,0 +1,1 @@
+web: gunicorn himanshu-django.wsgi --log-file -
