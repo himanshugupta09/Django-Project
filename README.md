@@ -9,3 +9,10 @@
 
 
 #### Based on The Requirements  [FrontEnd Development with Python Using Django]
+###  Below Are  The Requirements 
+## Requirements:
+## 1. The database should contain a simple list of objects with associated information derived
+##    from a backend on Django.
+## 2. The backend (in Django) should communicate with the front end.
+## 3. Two svg elements adapted to screen size
+## 4. Cookie points for stylized, user friendly pages.
