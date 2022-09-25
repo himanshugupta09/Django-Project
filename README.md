@@ -18,5 +18,10 @@
 ## 4. Cookie points for stylized, user friendly pages.
 
 # Below is the Demo of how the project is working on 
-<a href="https://clipchamp.com/watch/ow2SVJzzB49" target="_blank">Click Here to see How it Work's</a>
+<div style="position:relative;width:fit-content;height:fit-content;">
+            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/ow2SVJzzB49?utm_source=embed&utm_medium=embed&utm_campaign=watch">
+                <img style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
+            </a>
+            <iframe allowfullscreen style="border:none" src="https://clipchamp.com/watch/ow2SVJzzB49/embed" width="640" height="360"></iframe>
+</div>
 
